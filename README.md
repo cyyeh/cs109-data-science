@@ -16,7 +16,6 @@ Learning from data in order to gain useful predictions and insights. This course
 
 - Lecture 1: Course Overview
   - [Slides](lectures/01-Introduction.pdf)
-  - [Video](https://www.youtube.com/watch?v=kSWQaFtDuUg)
 
 ### Week 2
 
