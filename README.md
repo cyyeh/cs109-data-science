@@ -10,7 +10,10 @@ Learning from data in order to gain useful predictions and insights. This course
 4. prediction based on statistical methods such as regression and classification
 5. communication of results through visualization, stories, and interpretable summaries.
 
-**Note: The original course is using Python2.7; and I change it to using Python3(3.6.5) instead in this repo.**
+**Note**
+
+- The original course is using Python2.7; and I change it to using Python3(3.6.5) instead in this repo.
+- Assignments are from the CS109 2014 version.
 
 ## Schedule
 
