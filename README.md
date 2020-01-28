@@ -10,6 +10,8 @@ Learning from data in order to gain useful predictions and insights. This course
 4. prediction based on statistical methods such as regression and classification
 5. communication of results through visualization, stories, and interpretable summaries.
 
+**Note: The original course is using Python2.7; and I change it to using Python3(3.6.5) instead in this repo.**
+
 ## Schedule
 
 ### Week 1
@@ -162,3 +164,8 @@ Learning from data in order to gain useful predictions and insights. This course
 - Lecture 24: Wrapup, and where to go from here
   - [Slides](lectures/23-WrapUp.pdf)
   - [Video](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=67735f84-d3c9-406e-86cd-4bfbb38ef1cd)
+
+
+## Resources
+
+- [Course Website](http://cs109.github.io/2015/)
