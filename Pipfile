@@ -16,6 +16,10 @@ requests = "*"
 bs4 = "*"
 seaborn = "*"
 pyquery = "*"
+networkx = "*"
+mrjob = "*"
+pattern = "*"
+mysqlclient = "*"
 
 [requires]
 python_version = "3.6"
