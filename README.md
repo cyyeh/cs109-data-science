@@ -21,6 +21,9 @@ Learning from data in order to gain useful predictions and insights. This course
 
 - Lecture 1: Course Overview
   - [Slides](lectures/01-Introduction.pdf)
+- HW0
+  - [Code](assignments/HW0.ipynb)
+  - [Solution](assignments/HW0_solutions.ipynb)
 
 ### Week 2
 
@@ -34,6 +37,9 @@ Learning from data in order to gain useful predictions and insights. This course
 - Lecture 3: Exploratory Data Analysis
   - [Slides](lectures/03-EDA.pdf)
   - [Video](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4dc7719e-1ef4-4ee5-a9d9-fc48c3e13185)
+- HW1
+  - [Code](assignments/HW1.ipynb)
+  - [Solution](assignments/HW1-solutions.ipynb)
 
 ### Week 3
 
@@ -71,6 +77,9 @@ Learning from data in order to gain useful predictions and insights. This course
 - Lecture 9: Classification, kNN, Cross Validation, Dimensionality Reduction, PCA, MDS
   - [Slides](lectures/09-ClassificationPCA.pdf)
   - [Video](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=0ea5e572-f2da-4f3f-b54b-df4edf9a1106)
+- HW2
+  - [Code](assignments/HW2.ipynb)
+  - [Solution](assignments/HW2Solution.ipynb)
 
 ### Week 6
 
@@ -84,6 +93,9 @@ Learning from data in order to gain useful predictions and insights. This course
 - Lecture 11: Decision Trees and Random Forests
   - [Slides](lectures/11-DecisionTreesAndRandomForest.pdf)
   - [Video](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c22cbde8-94dd-42ad-86ef-091448ad02e4)
+- HW3
+  - [Code](assignments/HW3.ipynb)
+  - [Solution](assignments/HW3Solution.ipynb)
 
 ### Week 7
 
@@ -111,6 +123,9 @@ Learning from data in order to gain useful predictions and insights. This course
   - [Slides2](lectures/15b-Spark.pdf)
   - [Code](lectures/15b-Spark.ipynb)
   - [Video](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4d529afe-7fe0-42b8-a4d8-50aca797bdcf)
+- HW4
+  - [Code](assignments/HW4.ipynb)
+  - [Solution](assignments/HW4Solution.ipynb)
 
 ### Week 9
 
@@ -135,6 +150,9 @@ Learning from data in order to gain useful predictions and insights. This course
   - [Video](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=432bb538-45a0-41d3-bb4e-f7b81b0fe811)
 - Lecture BONUS: Interactive Visualization
   - [Video](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=5ca8d569-0c51-47aa-83df-147cc4b97e57)
+- HW5
+  - [Code](assignments/HW5.ipynb)
+  - [Solution](assignments/HW5Solution.ipynb)
 
 ### Week 11
 
