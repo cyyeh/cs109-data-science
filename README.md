@@ -92,7 +92,7 @@ Learning from data in order to gain useful predictions and insights. This course
   - [Video1](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=8ce7995a-c374-4946-b01f-c8d7b0d2614b)
   - [Video2](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=2a006499-49a7-4e2e-b5d8-bfa7a9510132)
 - Lecture 12: Ensemble Methods
-  - [Slides](lectures/12-Ensemble Learning and Random Forests.pdf)
+  - [Slides](lectures/12-EnsembleLearning_RandomForests.pdf)
   - [Video](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=6f374ba5-6e54-432c-9916-fb61fa2327ef)
 - Lecture 13: Best Practices
   - [Slides](lectures/13-BestPractices_Recommendations.pdf)
